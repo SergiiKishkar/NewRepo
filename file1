@@ -1,4 +1,10 @@
 Hello world!
 12345
+<<<<<<< HEAD
 Good evening! (from branch master)
+=======
+Good bye!
+line from user2
+line from user1
+>>>>>>> 41ceb8f0225b27fe0440a1700d16e7c5b2c218b4
 

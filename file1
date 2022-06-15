@@ -1,4 +1,8 @@
 Hello world!
 12345
+<<<<<<< HEAD
 Good evening! (from branch master)
 some new feature
+=======
+Good bye!
+>>>>>>> 9cbf6ecb95fa17672d6b351e4226f55f65398867

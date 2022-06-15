@@ -1,6 +1,15 @@
 Hello world!
 12345
+<<<<<<< HEAD
 Good bye!
 line from user2
 line from user1
 line from user1 -lesson about rebase
+=======
+<<<<<<< HEAD
+Good evening! (from branch master)
+some new feature
+=======
+Good bye!
+>>>>>>> 9cbf6ecb95fa17672d6b351e4226f55f65398867
+>>>>>>> 849742a4c8b897afc103aff428e1e3b0b5388a39

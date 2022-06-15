@@ -1,4 +1,7 @@
 Good bye!
 Some other line
+<<<<<<< HEAD
+=======
 Line from user2
 nother line from user2
+>>>>>>> 41ceb8f0225b27fe0440a1700d16e7c5b2c218b4
